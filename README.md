@@ -1,4 +1,4 @@
-# Hi, I'm Shekratul 👋
+# Hi, I'm Ratul 👋
 
 Welcome to my GitHub profile.
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile.
 
 ## 📫 Connect With Me
 - GitHub: [@shekratul10](https://github.com/shekratul10)
-- Email: your-email@example.com
+- Email: shekratul10@gmail.com
 
 ## ⚡ Fun Fact
 I enjoy turning ideas into real, working products.
