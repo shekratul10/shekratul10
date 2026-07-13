@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shekratul 👋
 
-<!--
-**shekratul10/shekratul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about software development and problem-solving
+- 🌱 Continuously learning and improving my skills
+- 🤝 Open to collaboration on interesting and impactful projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, C++
+- **Web:** HTML, CSS, React, Node.js
+- **Tools:** Git, GitHub, VS Code
+
+## 📌 Current Focus
+- Building practical projects
+- Strengthening problem-solving and system design skills
+- Contributing to open source
+
+## 📫 Connect With Me
+- GitHub: [@shekratul10](https://github.com/shekratul10)
+- Email: your-email@example.com
+
+## ⚡ Fun Fact
+I enjoy turning ideas into real, working products.
