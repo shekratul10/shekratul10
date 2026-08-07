@@ -4,22 +4,22 @@
 
 <p align="center">
   <a href="mailto:shekratul10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ratul-shekhar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ratul-shek-929922130/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
 ### About Me
-
 I'm a Software Engineer at **Lloyds Banking Group**, currently working within AI & Automation.
 
 I'm particularly interested in backend engineering, distributed systems, and the infrastructure behind production AI applications — from APIs and retrieval pipelines to observability, reliability, and scalable services.
 
-* 💼 Software Engineer — **Lloyds Banking Group**
-* 🤖 Building and exploring production-oriented AI systems
+* 💼 Building AI and automation products at scale at Lloyds Banking Group
+* 🎓 MEng EECS - Imperial College London
 * ⚙️ Interested in backend engineering, distributed systems, and infrastructure
 * 🌱 Currently deepening my knowledge of system design, Go, and modern AI engineering
 * 🔧 Exploring open-source contribution and building systems from first principles
+
 
 ---
 
@@ -41,25 +41,26 @@ I'm particularly interested in backend engineering, distributed systems, and the
 
 **AI / ML**
 
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
 
 **Data & Infrastructure**
 
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Currently Exploring**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4B5563?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge)
 
@@ -67,11 +68,11 @@ I'm particularly interested in backend engineering, distributed systems, and the
 
 ### Featured Projects
 
-**🧠 AI Market Research Agent** — `Python · LLMs · Agentic Workflows`
+**🧠 [AI Market Research Agent](https://github.com/shekratul10/Agents)** — `Python · LLMs · Agentic Workflows`
 
 Multi-stage research system for gathering, analysing, and synthesising information into structured reports. Built around modular orchestration and typed data models, with ongoing work around source retrieval, concurrency, evaluation, and report quality.
 
-**🤖 AI Document Assistant** — `Python · FastAPI · RAG · LLMs`
+**🤖 [AI Document Assistant](https://github.com/shekratul10/AI-Document-Assistant)** — `Python · FastAPI · RAG · LLMs`
 
 Production-style document question-answering system built around a retrieval-augmented generation pipeline. Supports document ingestion, indexing, retrieval, answer generation, and source-grounded responses, with an emphasis on clean architecture, reliability, and understanding the complete lifecycle of an LLM-backed application.
 
@@ -81,4 +82,4 @@ A distributed rate-limiting service designed to explore high-throughput backend 
 
 ---
 
-<p align="center">Reach me at 📫 <a href="mailto:shekratul10@gmail.com">shekratul10@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/ratul-shekhar/">LinkedIn</a></p>
+<p align="center">Reach me at 📫 <a href="mailto:shekratul10@gmail.com">shekratul10@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/ratul-shek-929922130/">LinkedIn</a></p>
